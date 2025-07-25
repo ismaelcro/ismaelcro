@@ -2,6 +2,10 @@
 <p align="center">
   Ing. Aeroespacial · Linux · SSO · IA 
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-Arch-1793d1?style=flat&logo=arch-linux""\>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white""\>
+</p>
 
 ---
 
