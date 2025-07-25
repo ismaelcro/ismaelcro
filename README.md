@@ -10,3 +10,8 @@
 - 🛠️ Trabajo con **C++ · Bash · LaTeX**
 - 🐧 Mantengo mi propio sistema Arch minimalista
 - 💻 Cofundador de una agencia de IA en educación (@coldshoweragency)
+
+
+## 📫 Contacto
+- ✉️ **Email**: <iscontra2007@gmail.com>
+- 🌐 **Web**: <https://ismaelcro.github.io>
